@@ -1,0 +1,4 @@
+INTERVIEW_PREP_NOTES.md
+__pycache__/
+*.pyc
+.DS_Store
